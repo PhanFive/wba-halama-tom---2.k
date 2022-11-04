@@ -1,0 +1,32 @@
+html, body {
+  background-color: rgb(201, 198, 198);
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+}
+
+.flexone {
+  margin: 0;
+  width: 40%;
+  height: 500px;
+  background-color: rgb(163, 163, 163);
+  float: right;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  background-color: brown;
+}
+
+.logo {
+  margin: 0;
+  padding: 20px 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.marks {
+  margin: 0px;
+  pa  
+}
