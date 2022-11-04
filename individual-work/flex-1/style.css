@@ -1,0 +1,17 @@
+body {
+  background-image: url("/individual-work/flex-1/files/Cosmic-Gradient-14.jpg");
+  background-color: #cccccc;
+  background-size: cover;
+  margin:0;
+ }
+
+ .header {
+  z-index: +1;
+  background: rgb(78, 2, 150);
+  opacity: 60%;
+  padding: 50px;
+ }
+
+.logo {
+  
+}
