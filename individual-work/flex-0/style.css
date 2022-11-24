@@ -1,0 +1,124 @@
+body, head {
+  margin: 0;
+  padding: 1px;
+  box-sizing: border-box;
+  background-color: greenyellow;
+}
+
+.i1 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i2 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i3 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i4 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i5 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i6 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i7 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i8 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i9 {
+  width: 10%;
+  height: 213px;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i10 {
+  width: 10%;
+  height: 213px;
+  margin: auto;
+  background-color: pink;
+  display: flex;
+  float: left;
+}
+
+.i11 {
+  width: 213px;
+  height: 213px;
+  background-color: pink;
+  margin: auto;
+  display: flex;
+  float: left;
+}
+
+.i12 {
+  width: 213px;
+  height: 213px;
+  background-color: pink;
+  margin: auto;
+  display: flex;
+  float: left;
+}
+
+.space {
+  width: 100%;
+  height: 615px;
+  display: flex;
+}
+
+.item2 {
+  display: flex;
+}
+
+.item-justify {
+  margin: 0 auto;
+}
+
+h2 {
+  margin: auto;
+  font-size: 40px;
+}
