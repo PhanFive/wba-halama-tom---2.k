@@ -3,22 +3,48 @@ html, body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  
+  background-image: url(/individual-work/figma-1/hero\ image.png);
+  background-size: cover;
 }
 
 .header {
+  justify-content:space-evenly;
+  align-items: center;
   width: 100%;
+  height: 150px;
   display: flex;
-  background-color: brown;
+  background-color: #CBC1B1;
 }
+
+
 
 .logo {
   margin: 0;
-  padding: 20px 50px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 10px;
+  padding: 0;
+  width: 150px;
+  }
+
+.navigation
+{
+  margin: auto 0 auto 20%;
 }
 
-.marks {
-  margin: 0px;
-  pa  
+#navtext
+{
+  font-size: 18px;
+  font-family: 'Lato';
+  text-transform: uppercase;
+  text-align: center;
+  padding: 18px;
+  margin: 0 15px;
+  float: left;
+}
+
+.flexdovolena 
+{
+  justify-content: end;
+  flex-direction: column;
+  align-content: flex-end;
+  flex-grow: 1; 
 }
