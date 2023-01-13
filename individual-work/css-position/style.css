@@ -1,6 +1,6 @@
 body, head {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin: 5px;
+  margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
@@ -11,12 +11,14 @@ margin: 0px auto;
 }
 
 header {
-  width: 100%;
+  width: 75%;
   height: fit-content;
   display: flex;
   position: static;
   justify-content: space-between;
   z-index: 1;
+  background-color: white;
+  position: fixed;
 }
 
 #digital {
@@ -28,18 +30,19 @@ header {
 
 .navbar {
   display: flex;
+  margin: auto 0;
   width: 10%;
   justify-content: space-between;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 15px;
-  transform: translateY(20%);
+  font-size: 18px;
+  
 }
 
 .headline-1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   text-align: center;
-  margin: 50px 0;
+  padding: 100px 0;
 }
 
 .hero-section {
@@ -47,6 +50,7 @@ header {
   display: flex;
   height: 500px;
   justify-content: space-around;
+  border-radius: 15px;
 }
 
 .hero-img img {
@@ -59,7 +63,26 @@ header {
 .hero-text {
   width: 35%;
   align-items: center;
-  
+  margin: auto 0;
+  color: #752400;
+  line-height: 30px;
+}
+
+.text-wrapper {
+  margin-top: 50px;
+  margin: 90px 0 100px 100px;
+}
+
+.top-link-wrapper {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 20px;
+}
+
+.top-link-wrapper img {
+  height: 80px;
+  width: 80px;
 }
 
 /* Barvy
