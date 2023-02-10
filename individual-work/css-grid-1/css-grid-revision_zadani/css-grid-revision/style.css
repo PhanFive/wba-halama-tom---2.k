@@ -5,10 +5,10 @@ body, html {
 }
 
 main {
-  background-color: gray;
+  background-color: rgb(165, 162, 162);
   width: 70%;
   margin: 0 auto;
-  height: 2000px;
+  height: 100vh;
 }
 
 h1 {
